@@ -1,11 +1,10 @@
-# Welcome!
-
-This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+ma_liste = ['a', 1, 'b', 2, 'c', 3]
+ma_liste.pop()
+ma_liste
+ma_liste.remove('b')
+ma_liste
 ```
 
-# Advanced usage
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
